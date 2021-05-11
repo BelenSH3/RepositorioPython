@@ -1,4 +1,5 @@
 print("Hola soy un cambio!")
+print("Hola maestra soy belen :)")
 def areaCuadrado():
   lado=int(input("Capture el lado: "))
   area=lado*lado
